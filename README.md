@@ -1,5 +1,5 @@
 # requester
-Tool for comfortable construction of simple http requests through UI
+Tool for comfortable viewing/exporting/construction of simple http requests through UI
 
 ---
 
